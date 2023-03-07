@@ -1,2 +1,4 @@
 这是newfile
+修改了bug
 加一行
+
